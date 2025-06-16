@@ -70,7 +70,9 @@ admin          npm run dev	   Starts Admin Panel (Vite)
 
 nvironment Variables
 Create a .env file in both admin/ and backend/ folders. Example:
+
 For Backend
+
 PORT=5000
 DB_URI=mongodb://localhost:27017/shoppingkaro
 JWT_SECRET=your_jwt_secret
