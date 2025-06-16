@@ -14,7 +14,7 @@
 |---------------|------------------------------------|
 | Admin Panel   | React, Vite, Tailwind CSS          |
 | User Frontend | React / HTML, CSS, JavaScript      |
-| Backend       | Node.js, Express.js, MongoDB (or SQL) |
+| Backend       | Node.js, Express.js, MongoDB       |
 | Auth          | JWT, bcrypt                        |
 | APIs          | RESTful APIs                       |
 
@@ -43,9 +43,9 @@ Toast notifications & error handling
 
 ### 🔧 Backend Setup
 
-
 cd backend
 npm install
+
 # Create .env file with DB_URI, JWT_SECRET, etc.
 npm run dev
 
